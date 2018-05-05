@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://zh.wikipedia.org/wiki/Docker_(%E8%BB%9F%E9%AB%94)"
+  status = 302
